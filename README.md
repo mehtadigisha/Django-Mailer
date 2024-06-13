@@ -35,7 +35,7 @@ A simple Django application to send emails using SMTP.
 2. (Optional) To avoid hardcoding sensitive information in your `settings.py`, consider using environment variables or Django's `django-environ` package.
 
 ## Usage
-3. Add this to your views.py file of app
+3. Add this to your `views.py` file of app
 
 ### Sending a Simple Email
 
