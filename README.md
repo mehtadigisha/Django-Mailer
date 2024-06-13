@@ -1,4 +1,4 @@
-# Django SMTP Mailer
+# Django Mailer
 
 A simple Django application to send emails using SMTP.
 
